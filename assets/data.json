@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "name": "HTML5 course",
+    "subtitle": "Study all new features of HTML5 in a week",
+    "description": "This two part series provides an in-depth look at the fundamentals of coding in HTML and CSS. We start with exploring HTML Development using some of the most commonly used tags and attributes. Students will learn the composition of an HTML file, and some of the essential components. Students will work with HTML Spacing, Text Formatting, Lists, Images, Embedding Videos, Link Creation, Tables, and Forms. We also include a hands-on project, that helps solidify the concepts we explore in the course.",
+    "price": 1200,
+    "dateBegin": "2020-12-01",
+    "image": "https://placeimg.com/640/480/tech?t=1"
+  },
+  {
+    "id": 2,
+    "name": "CSS3 course",
+    "subtitle": "Study all new features of CSS3 in a week",
+    "description": "Have you been coding CSS for some time, but want to take your game to the next level? Do you feel confused with CSS jargon like inheritance, specificity or the cascade?\nWhat if there was one resource, one place, where you could learn all the advanced and modern CSS techniques and properties you've been reading about?",
+    "price": 800,
+    "dateBegin": "2020-12-07",
+    "image": "https://placeimg.com/640/480/tech?t=2"
+  },
+  {
+    "id": 3,
+    "name": "JavaScript course",
+    "subtitle": "Study all new features of JavaScript in a week",
+    "description": "When you're learning to program you often have to sacrifice learning the exciting and current technologies in favor of the \"beginner friendly\" classes.  With this course, you get the best of both worlds.  This is a course designed for the complete beginner, yet it covers some of the most exciting and relevant topics in the industry.",
+    "price": 2000,
+    "dateBegin": "2020-12-14",
+    "image": "https://placeimg.com/640/480/tech?t=3"
+  },
+  {
+    "id": 4,
+    "name": "React.js course",
+    "subtitle": "Study all new features of React.js in a week",
+    "description": "Using the latest version of React (React 17), this course is focused on efficiency. Never spend time on confusing, out of date, incomplete tutorials anymore. Graduates of Andrei’s courses are now working at Google, Tesla, Amazon, Apple, IBM, JP Morgan, Facebook, + other top tech companies.",
+    "price": 2500,
+    "dateBegin": "2020-12-21",
+    "image": "https://placeimg.com/640/480/tech?t=4"
+  },
+  {
+    "id": 5,
+    "name": "Redux course",
+    "subtitle": "Study all new features of Redux in a week",
+    "description": "This is the tutorial you've been looking for to become a modern web developer in 2021. It doesn’t just cover a small portion of the industry. This covers everything you need to know to get hired: from absolute zero knowledge to being able to put things on your resume that will allow you to live the life you want. ",
+    "price": 2400,
+    "dateBegin": "2020-12-28",
+    "image": "https://placeimg.com/640/480/tech?t=5"
+  },
+  {
+    "id": 6,
+    "name": "Vue.js course",
+    "subtitle": "Study all new features of Vue.js in a week",
+    "description": "No matter at which metric you look at (Google Trends, Github Stars, Tweets ...) - VueJS is the shooting star in the world of JavaScript frameworks - it simply is amazing!\nThis bestselling course teaches the latest version of Vue (Vue.js 3) from the ground up and in great detail. We'll cover all the core basics but we'll not stop thereafter - this course also dives into advanced concepts like the Composition API introduced with Vue 3.",
+    "price": 2400,
+    "dateBegin": "2020-12-21",
+    "image": "https://placeimg.com/640/480/tech?t=6"
+  },
+  {
+    "id": 7,
+    "name": "Vuex course",
+    "subtitle": "Study all new features of Vuex in a week",
+    "description": "Frontend frameworks like Vue JS are extremely popular because they give us this reactive, great user experience we know from mobile apps - but now in the browser! No wonder that jobs requiring frontend framework skills like VueJS are amongst the best paid ones in the industry!\nYou may know Angular 2+ and ReactJS, well, VueJS combines the best of both frameworks and makes building anything from small widgets to big, enterprise-level apps a breeze and a whole lot of fun!",
+    "price": 2300,
+    "dateBegin": "2020-12-28",
+    "image": "https://placeimg.com/640/480/tech?t=7"
+  }
+]
